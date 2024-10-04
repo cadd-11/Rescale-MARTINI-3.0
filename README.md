@@ -8,4 +8,6 @@ One script named *PW2_rescaling_martini3.py* which was modified based on the scr
 
 The other script named *TD_modify_epsilon.py* which can rescale epsilon by a function of temperature. 
 
-The updated script is *rescaling_martini3_TD_YM.py*, you can run the script from the command line using `python3 rescaling_martini3_TD_YM.py -h`
+The updated script is *rescaling_martini3_TD_YM.py*, you can run the script from the command line using:
+
+`python3 rescaling_martini3_TD_YM.py -h`
