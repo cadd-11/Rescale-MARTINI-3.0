@@ -6,4 +6,6 @@ Here, the two python scripts are provided to rescale the L-J potential in MARTIN
 
 One script named *PW2_rescaling_martini3.py* which was modified based on the script in this [paper](https://doi.org/10.1021/acs.jctc.1c01042). The improvement is that you are able to rescale factor for epsilon in L-J potential between all bead types and water.
 
-The other script named *TD_modify_epsilon.py* which can rescale epsilon by a function of temperature.
+The other script named *TD_modify_epsilon.py* which can rescale epsilon by a function of temperature. 
+
+The updated script is *rescaling_martini3_TD_YM.py*, you can run the script from the command line using `python3 rescaling_martini3_TD_YM.py -h`
